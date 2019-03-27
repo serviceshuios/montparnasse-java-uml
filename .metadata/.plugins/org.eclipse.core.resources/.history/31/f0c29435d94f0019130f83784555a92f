@@ -1,0 +1,8 @@
+package com.infotel.metier;
+
+public class Personne {
+	public String surnom;
+	private String nom;
+	private String prenom;
+	protected Date dateDeNaissance;
+}
